@@ -13,3 +13,5 @@ CSS3
 JavaScript
 
 <img width="1840" height="795" alt="image" src="https://github.com/user-attachments/assets/c519a748-10a4-4897-840f-5429c5655aa3" />
+
+<img width="1872" height="559" alt="image" src="https://github.com/user-attachments/assets/b2aa6ef8-da75-4a21-a093-754534140cd1" />
